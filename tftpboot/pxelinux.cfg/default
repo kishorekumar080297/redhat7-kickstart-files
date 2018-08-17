@@ -1,0 +1,7 @@
+timeout 100
+default menu.c32
+menu title ==== Kishore RH7 Client Installation ====
+label 1
+menu label ^ 1)rhel7 using Kickstart
+kernel rh7/vmlinuz
+append initrd=rh7/initrd.img ks=http://10.0.0.10/ks.cfg
