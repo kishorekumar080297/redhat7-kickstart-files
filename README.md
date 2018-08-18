@@ -5,4 +5,4 @@ https://redhat-kickstart.firebaseapp.com
 
 
 # License
-Copyright (c) 2018 Kishore Kumar <kishorekumar080297@gmail.com>  
+Email: <kishorekumar080297@gmail.com>  
